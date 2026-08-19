@@ -1,0 +1,51 @@
+#alexandra1{
+background-color: red; width: 700px;
+height: 700px;
+border: radius 20px; 
+position:absolute;
+margin: auto;
+left: 0;
+right: 0%;
+top: 0;
+bottom: 0;
+border-radius: 30px;
+
+
+}
+
+#alexandra2{
+background-color: blueviolet;
+width: 650px;
+height: 400px;
+border-radius: 20px;
+margin: auto;
+position: absolute;
+margin-top: 30px;
+left: 0%;
+right: 0%;
+top: 35%;
+bottom: 10%;
+display: flex;
+}
+
+#alexandra3{
+    background-color: rgb(40, 201, 54);
+width: 650px;
+height: 200px;
+border-radius: 20px;
+margin: auto;
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 60%;
+}
+
+.card {
+    background-color: aqua;
+    width: 30%;
+    height: 100%;
+    margin-left: 2%;
+    margin-right: 1%;
+    border-radius: 5%;
+}
